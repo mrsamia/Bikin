@@ -1,0 +1,128 @@
+.dis_1_txt{
+   font-size:48px;
+   font-weight:700;
+   color:#2d405f;
+   line-height: 56px;
+   padding-top:155px;
+   display: flex;
+   justify-content: center;
+   font-family: 'Krub', sans-serif;
+}
+.dis_2_head{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    font-size:24px;
+    color:#2d405f;
+    font-family: 'Krub', sans-serif;
+}
+.get_strted_btn{
+    background: #3b4ef8;
+    border-radius: 5px;
+    font-size:16px ;
+    display: flex;
+    justify-content: center;
+    width: 150px;
+    height: 40px;
+    color: white;
+    letter-spacing: 1px;
+    border: none;
+    padding-top: 9px;
+    font-family: 'Krub', sans-serif;
+}
+.box_icon{
+    font-size: 40px;
+    color: #b6bdfc;
+}
+.h1_txt{
+    color: white;
+    font-weight:700 ;
+    font-size:34px ;
+}
+.h2_txt{
+   color: #2d405f;
+   font-size: 28px;
+   font-weight: 400; 
+}
+.h3_txt{
+    font-weight:600 ;
+    font-size:26px ;
+    color: #444444;
+}
+.h4_txt{
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+h5_txt{
+
+}
+h6_txt{
+
+}
+.txt_p{
+    color: #606164;
+    font-weight:500 ;
+}
+
+.about_btn{
+    border-radius:20px;
+    width: 125px;
+    color:white;
+    height: 37px;
+    border: none;
+    background-color: #59739E;
+    font-size: ;
+    font-weight:600 ;
+}
+h1,h2,h3,h4,h5,h6,p{
+    font-family: 'Krub', sans-serif;
+}
+.rd_part_img{
+    max-width: 45%;
+}
+
+.txt_p_sm{
+    color:white;
+    font-size: 15px;
+    font-weight:450 ;
+}
+.all_p_header{
+    font-weight: bold;
+    font-size: 32px;
+    color: #2d405f;
+}
+.lorem_01{
+    color: #3b4ef8;
+    font-size: 24px;
+    font-weight: 400;
+}
+.lorem_01_p{
+    color: #aaaaaa;
+    font-size: 15px;
+}
+.services_icon{
+    font-size: 32px;
+    line-height: 1;
+    color: #2d405f;
+    background: #eff2f8;
+    padding: 20px;
+    border-radius: 50px;
+    transition: all 0.3s;
+    text-align: center;
+}
+.services_tittle{
+    font-weight: 700;
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+.service_p_text{
+    line-height: 28px;
+    max-width: 95%; 
+    padding-left: 13px;
+    padding-bottom: 17px;
+}
+.card:hover{
+    transform: scale(1.05);
+    transition: all 0.3s;
+}
