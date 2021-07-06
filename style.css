@@ -262,3 +262,52 @@ h1,h2,h3,h4,h5,h6,p{
     color:#3b4ef8;
     text-decoration: none;
 }
+.contact_bx_i{
+    font-size: 32px;
+    color: #3b4ef8;
+    padding: 8px;
+}
+.contact_h3{
+    font-size: 20px;
+    color: #777777;
+    font-weight: 700;
+    margin: 10px 0;
+    text-align: center;
+}
+.contact_p{
+    padding: 0;
+    line-height: 24px;
+    font-size: 14px;
+    margin-bottom: 0;
+    color: #2d405f;
+    text-align: center;
+}
+.contact_box{
+    color: #2d405f;
+    text-align: center;
+    box-shadow: 0 0 30px rgb(214 215 216 / 60%);
+    padding: 20px 0 30px 0;
+    background: #fff;
+}
+.heiight{
+    padding: 10px 15px;
+    border-radius: 5px;
+    box-shadow: none;
+    font-size: 15px;
+    height: 45px;
+}
+.send_message{
+    border-radius:5px;
+    line-height:40px;
+    width: 157px;
+    background-color: #3b4ef8;
+    border: none;
+    color: white;
+    transition: 0.4s;
+}
+.send_message:hover{
+    transition: 0.4s; 
+    background-color: #041392;
+    color: white;
+    border: none;
+}
