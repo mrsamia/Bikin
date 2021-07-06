@@ -200,3 +200,54 @@ h1,h2,h3,h4,h5,h6,p{
   text-align: center;
   padding-right: 50px;
 }
+.pricing_card{
+    border: none;
+    border-radius: 8px;
+}
+.pricing_txt_p{
+    color:#2d405f;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    
+}
+.pricing_txt_p_na{
+    color: #ccc;
+    text-decoration: line-through;
+}
+.pricing_txt_p_1{
+    color:white;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+}
+.pricing_txt_p_na_1{
+    color: white;
+    text-decoration: line-through;
+}
+.buy_now_btn{
+    border: none;
+    border-radius: 5px;
+    background-color:#eceefe ;
+    width:140px ;
+    height:40px ;
+    color: #3b4ef8;
+    font-weight: 500;
+}
+.buy_now_btn:hover{
+    background-color:#3b4ef8;
+    color:white;
+}
+.buy_now_btn_1{
+    border: none;
+    border-radius: 5px;
+    width:140px ;
+    height:40px ;
+    color: white;
+    font-weight: 500;
+    background-color: rgba(255, 255, 255, 0.1)
+}
+.buy_now_btn_1:hover{
+    background-color:white;
+    color:#2d405f;
+}
